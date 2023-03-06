@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditions_Rowland_Ethan", "Conditions_Rowland_Ethan\Conditions_Rowland_Ethan.csproj", "{433739AB-9ACE-4BEF-8E77-1A7C42C95526}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{433739AB-9ACE-4BEF-8E77-1A7C42C95526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433739AB-9ACE-4BEF-8E77-1A7C42C95526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433739AB-9ACE-4BEF-8E77-1A7C42C95526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433739AB-9ACE-4BEF-8E77-1A7C42C95526}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5247DF07-4817-4811-B481-FB14CB66B2BB}
+	EndGlobalSection
+EndGlobal
